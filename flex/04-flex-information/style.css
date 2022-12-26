@@ -1,5 +1,21 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+.plants {
+  margin-top: 32px;
+  display: flex;
+  justify-content: center;
+}
+
+.one,
+.two,
+.three,
+.four {
+  margin: 8px;
+  max-width: 200px;
+  
 }
 
 img {
